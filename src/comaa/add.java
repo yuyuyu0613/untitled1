@@ -7,6 +7,8 @@ public class add {
         System.out.println("hello");
         System.out.println("held lo");
         System.out.println("hpo lp");
+        System.out.println("hpo lp1");
+        System.out.println("hpo lp2");
 
     };
 }
