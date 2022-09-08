@@ -10,7 +10,7 @@ public class add {
         System.out.println("hpo lp1");
         System.out.println("hpo lp2");
         System.out.println("hpo lp4");
-        System.out.println("hpo lp6");
 
-    };
+
+    }
 }
